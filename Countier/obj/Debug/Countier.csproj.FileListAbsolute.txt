@@ -1,0 +1,5 @@
+D:\It\Countier\Countier\obj\Debug\Countier.csproj.AssemblyReference.cache
+D:\It\Countier\Countier\obj\Debug\Countier.Form1.resources
+D:\It\Countier\Countier\obj\Debug\Countier.csproj.GenerateResource.cache
+D:\It\Countier\Countier\obj\Debug\Countier.Properties.Resources.resources
+D:\It\Countier\Countier\obj\Debug\Countier.csproj.CoreCompileInputs.cache
